@@ -1,6 +1,6 @@
 ## I'm Vincent
 #### Check out my 
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](vincentvonschilling.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-von-schilling-6baa2b214)
+[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.vincentvonschilling.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-von-schilling-6baa2b214)
 ### 🔭 I’m currently working on
   - A small catering website for a local business.
   - A project to help researchers evaluate historical chains of oral transmission and their transmitters, specifically within the field of Hadith.
