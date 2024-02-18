@@ -1,16 +1,19 @@
-### Hi there 👋
+### I'm Vincent
 
-<!--
-**vsvincent/vsvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  - A small catering website for a local business.
+  - A project to help researchers evaluate historical chains of oral transmission and their transmitters, specifically within the field of Hadith.
+  - A small Redis clone (coming soon...)
+  - A few other side projects here and there.
+- 💻 I'm great at
+  - C#
+  - Python
+  - TypeScript/JavaScript
+  - Java
+  - C++
+- 🌱 I’m currently learning
+  - Go
+  - LLM / RAG for small AI experiments
+  - Arabic
+### Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
