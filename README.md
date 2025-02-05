@@ -3,9 +3,10 @@
 
 ---
 ### 🔭 I’m currently working on
-  - A small catering website for a local business.
-  - A small Redis clone (coming soon...)
-  - A few other side projects here and there.
+  - Helping build the best campaign management tool in the world @Mediatool.
+  - Simple, spaced repetition-focused desktop study tool.
+  - Exciting AI startup project number 8237162386 (but this one is extra good)
+  - Streamlined calculator for optimizing interior heating with HVAC systems
 
 ---
 ### 💻 I'm great at:
