@@ -3,7 +3,7 @@
 
 ---
 ### 🔭 I’m currently working on
-  - Helping build the best campaign management tool in the world @Mediatool.
+  - Helping save the world from manual transcriptions [@GoodTape](https://goodtape.io/).
   - Simple, spaced repetition-focused desktop study tool.
   - Exciting AI startup project number 8237162386 (but this one is extra good)
   - Streamlined calculator for optimizing interior heating with HVAC systems
