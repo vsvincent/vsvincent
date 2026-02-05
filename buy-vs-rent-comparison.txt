@@ -1,0 +1,57 @@
+Inputs
+
+Label	Value
+Initial Capital (SEK)	400000
+Agent Fee (SEK)	50000
+Annual ETF Return	0.06
+Monthly Rent Option 1 (SEK)	9000
+Monthly Rent Option 2 (SEK)	12000
+Years	10
+
+
+Opportunity Cost
+
+Year	ETF Value if Renting	Lost ETF Growth (yearly)	Cumulative Opportunity Cost
+0	=Inputs!$B$2*(1+Inputs!$B$3)^A2	=Inputs!$B$3	=C2
+1	=Inputs!$B$2*(1+Inputs!$B$3)^A3	=B3-B2	=D2+C3
+2	=Inputs!$B$2*(1+Inputs!$B$3)^A4	=B4-B3	=D3+C4
+3	=Inputs!$B$2*(1+Inputs!$B$3)^A5	=B5-B4	=D4+C5
+4	=Inputs!$B$2*(1+Inputs!$B$3)^A6	=B6-B5	=D5+C6
+5	=Inputs!$B$2*(1+Inputs!$B$3)^A7	=B7-B6	=D6+C7
+6	=Inputs!$B$2*(1+Inputs!$B$3)^A8	=B8-B7	=D7+C8
+7	=Inputs!$B$2*(1+Inputs!$B$3)^A9	=B9-B8	=D8+C9
+8	=Inputs!$B$2*(1+Inputs!$B$3)^A10	=B10-B9	=D9+C10
+9	=Inputs!$B$2*(1+Inputs!$B$3)^A11	=B11-B10	=D10+C11
+10	=Inputs!$B$2*(1+Inputs!$B$3)^A12	=B12-B11	=D11+C12
+
+
+Rent Cost
+
+Year	Rent @9,000 SEK/month	Rent @12,000 SEK/month
+0	0	0
+1	=Inputs!$B$5*12	=Inputs!$B$6*12
+2	=B2+Inputs!$B$5*12	=C2+Inputs!$B$6*12
+3	=B3+Inputs!$B$5*12	=C3+Inputs!$B$6*12
+4	=B4+Inputs!$B$5*12	=C4+Inputs!$B$6*12
+5	=B5+Inputs!$B$5*12	=C5+Inputs!$B$6*12
+6	=B6+Inputs!$B$5*12	=C6+Inputs!$B$6*12
+7	=B7+Inputs!$B$5*12	=C7+Inputs!$B$6*12
+8	=B8+Inputs!$B$5*12	=C8+Inputs!$B$6*12
+9	=B9+Inputs!$B$5*12	=C9+Inputs!$B$6*12
+10	=B10+Inputs!$B$5*12	=C10+Inputs!$B$6*12
+
+
+Comparison
+
+Year	Buy: Opportunity Cost	Rent @9,000	Rent @12,000
+0	='Opportunity Cost'!D2	='Rent Cost'!B2	='Rent Cost'!C2
+1	='Opportunity Cost'!D3	='Rent Cost'!B3	='Rent Cost'!C3
+2	='Opportunity Cost'!D4	='Rent Cost'!B4	='Rent Cost'!C4
+3	='Opportunity Cost'!D5	='Rent Cost'!B5	='Rent Cost'!C5
+4	='Opportunity Cost'!D6	='Rent Cost'!B6	='Rent Cost'!C6
+5	='Opportunity Cost'!D7	='Rent Cost'!B7	='Rent Cost'!C7
+6	='Opportunity Cost'!D8	='Rent Cost'!B8	='Rent Cost'!C8
+7	='Opportunity Cost'!D9	='Rent Cost'!B9	='Rent Cost'!C9
+8	='Opportunity Cost'!D10	='Rent Cost'!B10	='Rent Cost'!C10
+9	='Opportunity Cost'!D11	='Rent Cost'!B11	='Rent Cost'!C11
+10	='Opportunity Cost'!D12	='Rent Cost'!B12	='Rent Cost'!C12
